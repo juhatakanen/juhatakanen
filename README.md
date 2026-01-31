@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here's a showreel showing so of the work I've done: https://www.youtube.com/watch?v=wiFbzMEddTQ
+Here's a showreel showing some of the work I've done: https://www.youtube.com/watch?v=wiFbzMEddTQ
 
 <!--
 **juhatakanen/juhatakanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
